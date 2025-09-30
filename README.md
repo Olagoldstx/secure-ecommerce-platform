@@ -1,2 +1,2 @@
 # secure-ecommerce-platform
-DevOps &amp; Cloud Security collaboration project
+DevOps & Cloud Security collaboration - Secure E-Commerce Platform
